@@ -289,7 +289,7 @@
 		71D7318116B2B40000F87061 /* bgm01.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = bgm01.mp3; sourceTree = "<group>"; };
 		71DEB67516B60F3000836CE4 /* explode01.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = explode01.plist; sourceTree = "<group>"; };
 		71DEB67616B60F3000836CE4 /* explode01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = explode01.png; sourceTree = "<group>"; };
-		71E6D5931680952A007883DA /* connectingGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = connectingGame.app; path = Bejeweled.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		71E6D5931680952A007883DA /* Bejeweled.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bejeweled.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		71E6D5971680952A007883DA /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		71E6D5991680952A007883DA /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
 		71E6D59B1680952A007883DA /* OpenAL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenAL.framework; path = System/Library/Frameworks/OpenAL.framework; sourceTree = SDKROOT; };
@@ -761,7 +761,7 @@
 		71E6D5941680952A007883DA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				71E6D5931680952A007883DA /* connectingGame.app */,
+				71E6D5931680952A007883DA /* Bejeweled.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -1185,7 +1185,7 @@
 			);
 			name = connectingGame;
 			productName = connectingGame;
-			productReference = 71E6D5931680952A007883DA /* connectingGame.app */;
+			productReference = 71E6D5931680952A007883DA /* Bejeweled.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
