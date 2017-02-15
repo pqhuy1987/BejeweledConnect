@@ -1508,7 +1508,7 @@
 					"-lz",
 					"-ObjC",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.graphic.firework.100;
+				PRODUCT_BUNDLE_IDENTIFIER = com.graphic.matchdiamond.100;
 				PRODUCT_NAME = Bejeweled;
 				WRAPPER_EXTENSION = app;
 			};
@@ -1531,7 +1531,7 @@
 					"-lz",
 					"-ObjC",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.graphic.firework.100;
+				PRODUCT_BUNDLE_IDENTIFIER = com.graphic.matchdiamond.100;
 				PRODUCT_NAME = Bejeweled;
 				VALIDATE_PRODUCT = NO;
 				WRAPPER_EXTENSION = app;
